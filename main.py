@@ -11,4 +11,4 @@ elif operator == "/":
 elif operator == " - ":
   print(num1 - num2)
 else :
-  print("Enter valid operator")
+  print("Enter valid operator and try again")
